@@ -5,7 +5,7 @@
   "repository": "git@github.com:philhawksworth/findthat.at.git",
   "author": "Phil Hawksworth <phil@netlify.com>",
   "license": "MIT",
-  "baseUrl": "https://findthat.at",
+  "baseUrl": "https://raccourci-favnico.netlify.app",
   "bin": {
     "shorten": "cli.js"
   },
